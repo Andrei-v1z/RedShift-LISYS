@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RedShift/LISYS",
+	"Description": "RedShift Login System (LISYS). HTTPS GET login requests and JSON responses. PHP/MySQL backend support.",
+	"Category": "Networking",
+	"CreatedBy": "Andrei",
+	"CreatedByURL": "https://www.redshiftstudio.net/",
+	"DocsURL": "https://www.redshiftstudio.net/",
+	"MarketplaceURL": "https://www.redshiftstudio.net/",
+	"SupportURL": "https://www.redshiftstudio.net/",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RedShiftLISYS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

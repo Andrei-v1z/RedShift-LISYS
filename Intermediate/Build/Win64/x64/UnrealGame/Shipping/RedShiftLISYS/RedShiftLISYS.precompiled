@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"Module.RedShiftLISYS.cpp.obj",
+		"RedShiftLISYSModule.cpp.obj",
+		"RedShiftLISYSSubsystem.cpp.obj"
+	]
+}
